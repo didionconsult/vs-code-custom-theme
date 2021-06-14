@@ -1,14 +1,5 @@
-{
-    "editor.fontSize": 14,
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ],
-    "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Custom-theme",
-    "workbench.colorCustomizations": {
+
+    	"workbench.colorCustomizations": {
         "focusBorder": "#cd929b",
         "errorForeground": "#f97583",
         "textLink.foreground": "#cd929b",
@@ -23,7 +14,7 @@
         "input.border": "#1b1f23",
         "input.foreground": "#cd929b",
         "list.highlightForeground": "#cd929b",
-		    "list.errorForeground": "#ff62a5",
+	"list.errorForeground": "#ff62a5",
         "dropdown.background": "#222",
         "dropdown.border": "#1b1f23",
         "dropdown.foreground": "#cd929b",
@@ -33,7 +24,7 @@
         "editorIndentGuide.activeBackground": "#444d56",
         "editor.lineHighlightBackground": "#222",
         "editor.wordHighlightBackground": "#cd929b",
-		    "editor.wordHighlightStrongBackground": "#cd929b",
+	"editor.wordHighlightStrongBackground": "#cd929b",
         "editorLineNumber.foreground": "#cd929b",
         "editorWidget.background": "#222",
         "editor.foldBackground": "#222",
@@ -86,9 +77,7 @@
         "titleBar.border": "#222",
         "activityBarBadge.background": "#836a3a",
         "statusBar.background": "#222",
-        "statusBar.foreground": "#cd929b",
-       
-        
+        "statusBar.foreground": "#cd929b",  
     },
     
     // Enable for token color settings
